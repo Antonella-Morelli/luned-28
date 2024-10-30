@@ -1,0 +1,62 @@
+main {
+    margin: 350px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+
+top { 
+    text-align: center;
+}
+
+.divtop {
+    color: seagreen;
+    background-color: rgba(255, 248, 238, 0.993);
+    padding: 15px;
+    margin-top: 3px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    color: grey;
+    text-align: center;
+}
+
+.featuredin {
+    color: red;
+}
+
+.fresh {
+    color: rgb(13, 125, 129);
+    
+
+}
+
+.foot {
+    margin: 120px;
+
+}
+
+.simplyfoot {
+    color: seagreen;
+}
+
+img {
+    align-items: center;
+}
+
+.imgpizza {
+    text-align: center;
+}
+
+footer {
+    margin-left: 350px
+}
+
+.thanksgivin {
+    font-weight: bold;
+
+}
